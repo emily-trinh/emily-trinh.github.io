@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting through the intro to github workshop
-- 🌱 I’m currently learning how to use visual studio code
-- 👯 I’m looking to collaborate on a new project
-- 🤔 I’m looking for help with the new project
+- 🌱 I’m currently learning how to use visual studio code terminal
+- 👯 I’m looking to collaborate on a new project :^)
+- 🤔 I’m looking for help with a new project
 - 💬 Ask me about anything
 - 📫 How to reach me: etrinh26@gmail.com
 - 😄 Pronouns: she/her
